@@ -1,0 +1,4 @@
+Producto: Teclado mecánico
+Total de Ventas: 28808.660000000003
+Cantidad de Registros: 14
+Precio Unitario Promedio: 633.1007142857142

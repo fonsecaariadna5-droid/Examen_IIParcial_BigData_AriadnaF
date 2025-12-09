@@ -1,0 +1,4 @@
+Producto: Memoria USB 32GB
+Total de Ventas: 21761.66
+Cantidad de Registros: 9
+Precio Unitario Promedio: 711.2955555555556
